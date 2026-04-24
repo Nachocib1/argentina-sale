@@ -8,6 +8,8 @@
     "license": "AGPL-3",
     "depends": ["delivery_ux", "l10n_ar_stock_ux"],
     "data": [
+        "views/ir.action.reports.xml",
+        "views/picking_templates.xml",
         "views/report_deliveryslip.xml",
     ],
     "demo": [],
